@@ -1,7 +1,7 @@
 import Navbar from "../components/Nav";
 import Footer from "../components/Footer";
 
-export default function ViewEvent(){
+export default function Login(){
     return (
        <>
         <Navbar/>
