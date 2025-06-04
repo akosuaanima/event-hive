@@ -17,6 +17,7 @@ const eventHiveRouter = createBrowserRouter([
 { path: '*', element: <NotFound /> },
 ]);
 
+
 function App() {
   return (
     <>
