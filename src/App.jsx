@@ -1,6 +1,6 @@
 import { createBrowserRouter,RouterProvider } from "react-router"
 import Register from "./pages/Register"
-// import Login from "./pages/Login"
+import Login from "./pages/Login"
 import Home from "./pages/Home"
 import ViewEvent from "./pages/ViewEvent"
 import ViewCollege from "./pages/ViewCollege"
