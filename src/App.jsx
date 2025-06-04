@@ -10,7 +10,7 @@ import NotFound from "./pages/NotFound"
 const eventHiveRouter = createBrowserRouter([
 { path: '/', element: <Home /> },
 { path: '/register', element: <Register /> },
-// { path: '/login', element: <Login /> },
+{ path: '/login', element: <Login /> },
 { path: '/view-event', element: <ViewEvent/> },
 { path: '/view-college', element: <ViewCollege/> },
 { path: '/create-event', element: <CreatEvent/> },
